@@ -2,9 +2,8 @@
 using namespace std;
 
 string i;
-bool match (string t, string p) {
-	
-};
+cin >> i;
+
 int main () {
 	
 };

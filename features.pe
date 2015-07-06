@@ -1,0 +1,6 @@
+::polese
+
+use "IOStream" from this place "libraries"
+with class IOStream: be
+
+stdout "Hello, world!"

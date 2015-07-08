@@ -1,6 +1,6 @@
 ::polese
 
-use "IOStream" from this place "libraries"
+use "IOStream" from self"libraries"
 with class IOStream: be
 
 stdout "Hello, world!"
